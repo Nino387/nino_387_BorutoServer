@@ -34,3 +34,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Personal ignored files ###
+/tips.txt
